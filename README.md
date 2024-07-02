@@ -8,4 +8,4 @@ Fonts were imported using FontAwesome
 
 This portfolio is not hosted as I have a new one. Previews below:
 
-<p align="center"><img alt="Img1" src=".Img/GitHub/Img1.png" width="700" /></p>
+<p align="center"><img alt="Img1" src="./Img/GitHub/Img1.png" width="700" /></p>
